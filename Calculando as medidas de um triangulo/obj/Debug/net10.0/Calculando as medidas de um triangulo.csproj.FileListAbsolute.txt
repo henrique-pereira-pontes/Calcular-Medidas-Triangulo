@@ -1,0 +1,14 @@
+C:\Users\henri\OneDrive\Área de Trabalho\Estudos de Henrique\Calculando as medidas de um triangulo\Calculando as medidas de um triangulo\bin\Debug\net10.0\Calculando as medidas de um triangulo.exe
+C:\Users\henri\OneDrive\Área de Trabalho\Estudos de Henrique\Calculando as medidas de um triangulo\Calculando as medidas de um triangulo\bin\Debug\net10.0\Calculando as medidas de um triangulo.deps.json
+C:\Users\henri\OneDrive\Área de Trabalho\Estudos de Henrique\Calculando as medidas de um triangulo\Calculando as medidas de um triangulo\bin\Debug\net10.0\Calculando as medidas de um triangulo.runtimeconfig.json
+C:\Users\henri\OneDrive\Área de Trabalho\Estudos de Henrique\Calculando as medidas de um triangulo\Calculando as medidas de um triangulo\bin\Debug\net10.0\Calculando as medidas de um triangulo.dll
+C:\Users\henri\OneDrive\Área de Trabalho\Estudos de Henrique\Calculando as medidas de um triangulo\Calculando as medidas de um triangulo\bin\Debug\net10.0\Calculando as medidas de um triangulo.pdb
+C:\Users\henri\OneDrive\Área de Trabalho\Estudos de Henrique\Calculando as medidas de um triangulo\Calculando as medidas de um triangulo\obj\Debug\net10.0\Calculando as medidas de um triangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henri\OneDrive\Área de Trabalho\Estudos de Henrique\Calculando as medidas de um triangulo\Calculando as medidas de um triangulo\obj\Debug\net10.0\Calculando as medidas de um triangulo.AssemblyInfoInputs.cache
+C:\Users\henri\OneDrive\Área de Trabalho\Estudos de Henrique\Calculando as medidas de um triangulo\Calculando as medidas de um triangulo\obj\Debug\net10.0\Calculando as medidas de um triangulo.AssemblyInfo.cs
+C:\Users\henri\OneDrive\Área de Trabalho\Estudos de Henrique\Calculando as medidas de um triangulo\Calculando as medidas de um triangulo\obj\Debug\net10.0\Calculando as medidas de um triangulo.csproj.CoreCompileInputs.cache
+C:\Users\henri\OneDrive\Área de Trabalho\Estudos de Henrique\Calculando as medidas de um triangulo\Calculando as medidas de um triangulo\obj\Debug\net10.0\Calculando as medidas de um triangulo.dll
+C:\Users\henri\OneDrive\Área de Trabalho\Estudos de Henrique\Calculando as medidas de um triangulo\Calculando as medidas de um triangulo\obj\Debug\net10.0\refint\Calculando as medidas de um triangulo.dll
+C:\Users\henri\OneDrive\Área de Trabalho\Estudos de Henrique\Calculando as medidas de um triangulo\Calculando as medidas de um triangulo\obj\Debug\net10.0\Calculando as medidas de um triangulo.pdb
+C:\Users\henri\OneDrive\Área de Trabalho\Estudos de Henrique\Calculando as medidas de um triangulo\Calculando as medidas de um triangulo\obj\Debug\net10.0\Calculando as medidas de um triangulo.genruntimeconfig.cache
+C:\Users\henri\OneDrive\Área de Trabalho\Estudos de Henrique\Calculando as medidas de um triangulo\Calculando as medidas de um triangulo\obj\Debug\net10.0\ref\Calculando as medidas de um triangulo.dll
